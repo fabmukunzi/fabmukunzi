@@ -5,4 +5,5 @@
 ___
 
 <img src='https://github-readme-stats.vercel.app/api?username=fabmukunzi&show_icons=true&locale=en'>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabmukunzi&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabmukunzi&show_icons=true&locale=en&layout=compact" alt="fabmukunzi" />
