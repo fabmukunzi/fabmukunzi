@@ -23,7 +23,10 @@
 
 <br/>
 
-Full-Stack Software Engineer with 3+ years of experience building and delivering production-ready solutions across international teams. Passionate about solving real-world problems through clean architecture and great UX.
+Full-Stack Software Engineer with 3+ years of experience building and shipping production applications end-to-end,
+        from requirements to deployment, in an international teams. Solid expertise in TypeScript, Java, and React within
+        modern full-stack stacks, and a proven agile partner collaborating closely with Engineering, QA, and Product teams,
+        committed to continuous learning and improvement.
 
 ---
 
