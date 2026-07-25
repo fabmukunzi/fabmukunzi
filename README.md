@@ -37,15 +37,15 @@ Full-Stack Software Engineer with 3+ years of experience building and shipping p
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 July 2024 - To: 22 July 2026
+From: 20 July 2024 - To: 24 July 2026
 
-Total Time: 2,251 hrs
+Total Time: 2,277 hrs 53 mins
 
-TypeScript                    1,365 hrs 44 mins     ███████████████░░░░░░░░░░   60.50 %
-Java                          541 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-XML                           51 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-JavaScript                    44 hrs 10 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Bash                          30 hrs 49 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript                    1,388 hrs 22 mins     ███████████████▒░░░░░░░░░   60.78 %
+Java                          541 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+XML                           51 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JavaScript                    44 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Bash                          31 hrs 50 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
