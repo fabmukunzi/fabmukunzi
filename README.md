@@ -37,7 +37,7 @@ Full-Stack Software Engineer with 3+ years of experience building and shipping p
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 July 2024 - To: 25 July 2026
+From: 20 July 2024 - To: 26 July 2026
 
 Total Time: 2,278 hrs 50 mins
 
